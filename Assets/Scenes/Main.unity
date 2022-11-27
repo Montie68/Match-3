@@ -574,7 +574,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_TargetDisplay: 0
 --- !u!224 &1420492584
 RectTransform:
@@ -630,6 +630,12 @@ MonoBehaviour:
   _height: 9
   _borderSize: 1
   _tilePrefab: {fileID: 8096856288025447132, guid: 103a0876c1d58d644b999b3b9edcd98e, type: 3}
+  _gamePiecePrefabs:
+  - {fileID: 1318851348367530026, guid: fb83767eeb1b74691af1f1c1fc4ca2d7, type: 3}
+  - {fileID: 9083398608834477560, guid: 7b44db159938d42f8beecc1407481e1d, type: 3}
+  - {fileID: 7938098046261467411, guid: 5516c9788c0454cf3b13410e9d3ed191, type: 3}
+  - {fileID: 282984345404791364, guid: c9ebac90bc031408784f40e5590eda7e, type: 3}
+  - {fileID: 3771214303262260613, guid: 1de678f6cf5df4477964f9573cf119a4, type: 3}
 --- !u!4 &1927018666
 Transform:
   m_ObjectHideFlags: 0
